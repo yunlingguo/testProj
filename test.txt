@@ -1,7 +1,0 @@
-this is test txt file ..
-
-if you modify the file,
-please commit your file
-litengs modify...
-
-
